@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Link Simplifier",
+  "version": "1.0",
+  "description": "Simplifies Amazon product links with one click",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "*://*.amazon.com/*",
+    "*://amazon.com/*"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

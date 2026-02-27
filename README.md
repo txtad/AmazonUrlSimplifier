@@ -4,6 +4,8 @@
 
 Amazon Link Simplifier is a Chrome extension that simplifies Amazon product URLs with a single click. It removes unnecessary parameters from the URL, leaving only the essential product identifier.
 
+At this time, it's just a toy and not really working.
+
 ## Features
 
 - Simplifies Amazon product URLs to their basic form
